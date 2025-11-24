@@ -42,11 +42,11 @@ This is perfect for ATS systems, HR automation, job matching, and resume analyti
 
 | Layer | Technology |
 |------|------------|
-| Backend | Flask, Python |
+| Frontend / Backend | Python, Streamlit |
 | LLM Engine | Groq API (LLaMA-3) |
 | Framework | LangChain |
 | PDF Parsing | PyPDF2 |
-| Frontend | HTML + JavaScript |
+
 
 ---
 
