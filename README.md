@@ -1,4 +1,4 @@
-# 📄 Resume Parser (LangChain + Groq + Flask)  
+# 📄 Resume Parser (LangChain + Groq + Streamlit)  
 ### Extract structured JSON from PDF resumes using AI
 
 ---
